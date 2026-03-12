@@ -43,3 +43,5 @@ Then pull a model:
 ```bash
 ollama pull tinyllama
 ```
+
+# ai-voice-assistant
